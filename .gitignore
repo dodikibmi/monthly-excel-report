@@ -1,0 +1,5 @@
+data/sales.db
+data/extract-*.csv
+data/control-*.json
+out/
+~$*
